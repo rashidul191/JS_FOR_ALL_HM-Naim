@@ -1,0 +1,2 @@
+// JavaScript Interpreted vs Compiled
+
